@@ -1,5 +1,5 @@
 # Mixed-Messages
-================
+
 
 This Codecademy project features a personality judgement tool coded with JavaScript! Run the program to face judgement.
 
